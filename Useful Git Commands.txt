@@ -1,0 +1,10 @@
+Useful Git Commands:
+
+Clone A Git Repository: git clone REPOSITORYNAMEHERE
+Add Files To A Git Change: git add FILENAMEHERE
+Commit A Git Change: git commit
+Push Changes To Git: git push git@github.com:brianyangidea/palismanto.git main
+
+Complier Commands:
+Compile Executable File: g++ game.cpp -o palismanto.exe
+Run File: ./palismanto.exe
