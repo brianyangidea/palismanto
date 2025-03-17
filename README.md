@@ -5,4 +5,4 @@ Ever played a card battler that was fun, but got annoyed that they only stuck wi
 
 Well, you're in luck my friendly chucklenut!
 
-Introducing **_Plalismanto_**! The card battling game with no theme whatsoever! All the good stuff with card battlers is here, but the cards and mechanics are just whatever I think is cool. Have fun! 😜
+Introducing **_Palismanto_**! The card battling game with no theme whatsoever! All the good stuff with card battlers is here, but the cards and mechanics are just whatever I think is cool. Have fun! 😜
